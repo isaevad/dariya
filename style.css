@@ -114,6 +114,10 @@ body {
   background-image: url("img/icon-css.svg");
 }
 
+.icons {
+  padding-left: 40px
+}
+
 .level {
   margin: 4px 20px 20px;
   padding: 0;
